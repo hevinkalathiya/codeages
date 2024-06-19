@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Andromeda Light Nextjs",
+    "title": "Codeages Infotech",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
     "logo_width": "240",
     "logo_height": "34",
-    "logo_text": "Andromeda"
+    "logo_text": "Codeages"
   },
 
   "settings": {
