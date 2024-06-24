@@ -57,7 +57,7 @@ clients:
 
 ## members
 our_member:
-  subtitle: OUR MEMBERS
+  subtitle: OUR FAMILY
   title: The People Behind
   content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
   list:
@@ -67,9 +67,9 @@ our_member:
     - name: Bukiakta Bansalo
       field: Product
       image: /images/about/team/02.jpg
-    - name: Ortrin Okaster
-      field: Engineering
-      image: /images/about/team/03.jpg
+    # - name: Ortrin Okaster
+    #   field: Engineering
+    #   image: /images/about/team/03.jpg
 
 ## office
 our_office:
