@@ -6,8 +6,8 @@ draft: false
 ## about us
 about_us:
   subtitle: WHO WE ARE
-  title: Hello, We’re Andromeda Here For Your Help
-  content: Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit
+  title: Hello, We’re Metamorix - Your Tech Solution Partner
+  content: We are a premier software development agency dedicated to providing cutting-edge solutions to meet your business needs. Our team of seasoned professionals specializes in custom software development, IT consultancy, and personalized training programs. As the first-ever online tech manifesto in Bangladesh, we aim to be your trusted partner in navigating the digital landscape.
   image: /images/about/01.jpg
 
 ## our works
@@ -15,34 +15,34 @@ works:
   subtitle: OUR WORKS
   title: What We Do
   list:
-    - title: Building A New Class
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Design For Anyone
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Creative Flair Design
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Building Products
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
+    - title: Building a New Era in Technology
+      content: With decades of combined engineering experience, our team excels in creating robust technical infrastructures and innovative features. Our solutions ensure seamless functionality and superior performance.
+    - title: Design for Everyone
+      content: We believe in making technology accessible and user-friendly. Our designs cater to a wide range of users, providing an intuitive and smooth experience.
+    - title: Creative Design Excellence
+      content: Our creative team infuses every project with a unique flair, blending aesthetic appeal with functional design. We aim to deliver solutions that are both effective and visually striking.
+    - title: Developing High-Quality Products
+      content: Our product development process focuses on innovation and efficiency. We create products that meet the highest standards of quality and performance, customized to your specific needs.
 
 ## our mission
 mission:
   subtitle: OUR MISSION
-  title: Main Vision And Mission Of Our Company
-  content: We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece .
+  title: Our Vision and Mission
+  content: Our mission is to empower businesses through advanced technology and innovative solutions. We strive to provide exceptional value to our clients, ensuring their success in the digital age. Our vision is to be the leading software agency recognized for our commitment to excellence and customer satisfaction.
   image: /images/about/02.jpg
 
 ## short video
 video:
   subtitle: A SHORT VIDEO
-  title: You Take Care Of The Payments, We Take Care Of The Rest.
-  description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistcy throughout the.
+  title: Your Success, Our Commitment.
+  description: Discover more about our services and how we can help your business thrive. Watch our introductory video to get started.
   video_id: dyZcRRWiuuw
   thumbnail: /images/about/video-popup-2.jpg
 
 ## clients
 clients:
   subtitle: OUR CLIENTS
-  title: Trusted By Thousands Companies
+  title: Trusted by Leading Companies
   brands:
     - /images/brands/01-colored.png
     - /images/brands/02-colored.png
@@ -54,18 +54,17 @@ clients:
     - /images/brands/05-colored.png
     - /images/brands/06-colored.png
 
-
 ## members
 our_member:
-  subtitle: OUR FAMILY
-  title: The People Behind
-  content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  subtitle: OUR TEAM
+  title: Meet Our Experts
+  content: Our talented team is the backbone of our success. We bring together a diverse group of experts in design, development, and operations to deliver exceptional results for our clients.
   list:
-    - name: Valentin Staykov
-      field: Operations
+    - name: Hevin Kalathiya
+      field: CEO
       image: /images/about/team/01.jpg
-    - name: Bukiakta Bansalo
-      field: Product
+    - name: Sujal Thummar
+      field: CTO
       image: /images/about/team/02.jpg
     # - name: Ortrin Okaster
     #   field: Engineering
@@ -74,21 +73,19 @@ our_member:
 ## office
 our_office:
   subtitle: OUR OFFICES
-  title: Made With Love Of Around The </br> World With Many Offices
-  content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  title: Global Presence
+  content: We are proud to have a global presence with offices in several countries. Our international team collaborates across borders to deliver the best solutions for our clients.
   countries:
     - flag: /images/about/flags/us.png
-      name: NewYork, USA
-      location: 219 Bald Hill Drive Oakland Gardens, NY 11364
+      name: New York, USA
+      location: 219 Bald Hill Drive, Oakland Gardens, NY 11364
     - flag: /images/about/flags/au.png
-      name: Australia, Perth
-      location: Flat 23 80 Anthony Circlet Port Guiseppe, TAS 2691
-    - flag:  /images/about/flags/germany.png
+      name: Perth, Australia
+      location: Flat 23, 80 Anthony Circle, Port Guiseppe, TAS 2691
+    - flag: /images/about/flags/germany.png
       name: Berlin, Germany
-      location: Jl Raya Dewi Sartika Ged Harapan Masa, Br Germeny
-    - flag:  /images/about/flags/china.png
-      name: China, Wohan
-      location: 1hao Wen Ti Huo Dong Zhong Xin 1ceng Jian Xing
-
+      location: Jl Raya Dewi Sartika, Ged Harapan Masa, Berlin
+    - flag: /images/about/flags/china.png
+      name: Wuhan, China
+      location: 1hao Wen Ti Huo Dong Zhong Xin, 1ceng Jian Xing
 ---
-

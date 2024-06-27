@@ -186,7 +186,7 @@ const Home = ({ banner, brands, features, intro, speciality, testimonial }) => {
                 </div>
               </div>
             </div>
-            <div className="row border-y border-border py-5">
+            {/* <div className="row border-y border-border py-5">
               <div className="animate from-right col-12">
                 <Swiper
                   loop={true}
@@ -219,7 +219,7 @@ const Home = ({ banner, brands, features, intro, speciality, testimonial }) => {
                   ))}
                 </Swiper>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
@@ -241,7 +241,7 @@ const Home = ({ banner, brands, features, intro, speciality, testimonial }) => {
                 clickable: true,
                 dynamicBullets: true,
               }}
-              // autoplay={{ delay: 3000 }}
+              autoplay={{ delay: 3000 }}
               onBeforeInit={(swiper) => {
                 swiper.params.pagination.el = paginationRef.current;
               }}

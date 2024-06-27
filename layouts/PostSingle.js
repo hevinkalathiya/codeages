@@ -4,7 +4,6 @@ import dateFormat from "@lib/utils/dateFormat";
 import readingTime from "@lib/utils/readingTime";
 import { markdownify } from "@lib/utils/textConverter";
 import shortcodes from "@shortcodes/all";
-import { DiscussionEmbed } from "disqus-react";
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/image";
 import Cta from "./components/Cta";
@@ -15,7 +14,6 @@ const PostSingle = ({ frontmatter, content, mdxContent, recentPosts }) => {
   let { description, title, date, image, author } = frontmatter;
   description = description ? description : content.slice(0, 120);
 
-  const { disqus } = config;
 
   return (
     <Base title={title} description={description}>
@@ -57,16 +55,6 @@ const PostSingle = ({ frontmatter, content, mdxContent, recentPosts }) => {
                   <MDXRemote {...mdxContent} components={shortcodes} />
                 </div>
               </div>
-              {disqus.enable && (
-                <div className="fade row justify-center opacity-0">
-                  <div className="lg:col-8">
-                    <DiscussionEmbed
-                      shortname={disqus.shortname}
-                      config={disqus.settings}
-                    />
-                  </div>
-                </div>
-              )}
             </div>
           </article>
 
